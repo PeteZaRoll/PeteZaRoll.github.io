@@ -1,0 +1,25 @@
+html {
+  background-color: #000000;
+  color: #ffcc00;
+}
+body {
+  background-color: #01000C;
+  color: #ffcc00;
+  text-align: center !important;
+  color: #ffcc00 !important;
+}
+.mainphoto {
+  display: block;
+  margin: auto;
+  height: 50%;
+  width: 50%;
+  border: 1px solid #ffcc00;
+}
+.imagedetails {
+  text-align: center;
+}
+.splashphoto {
+  height: 75%;
+  width: 75%;
+  border: 1px solid #ffcc00;
+}
