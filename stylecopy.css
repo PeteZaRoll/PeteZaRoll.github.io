@@ -176,5 +176,6 @@ ul.topnav li.icon {
 }
 
 .thumbnail {
-  border: 1px solid # #ffffff;
+  border: 1px solid;
+  color: #212121;
 }
